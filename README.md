@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhashis Ghosh</h1>
 <h3 align="center">A passionate Application developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/lucas_mason/collections/3272245-work">
+<img align="right" alt="C" width="400" src="![image](https://github.com/subhashis-2003/subhashis-2003/assets/141888234/95ff1e55-9cd2-430e-ab80-49d8e03564be)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashis-2003&label=Profile%20views&color=0e75b6&style=flat" alt="subhashis-2003" /> </p>
 
