@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Subhashis Ghosh</h1>
+
+<p align="center">
+<a href="https://github.com/subhashis-2003">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Subhashis+Ghosh;+%7C+B.Tech+Student" alt="Typing SVG" />
+
 <h3 align="center">A passionate Application developer from India</h3>
 
 ![image](https://github.com/subhashis-2003/subhashis-2003/assets/141888234/68f92443-df2b-4ace-b677-b9b44d8b2b48)
